@@ -1,0 +1,193 @@
+.body{
+	height: 2000px;
+	background-color: #f5f8f8;
+}
+/*headre*/
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 40px;
+}
+.navigation{
+	display: inline-block;
+}
+.logo{
+	width: 50px;
+	vertical-align: middle;
+	margin-right: 140px;
+
+}
+.header{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	
+	
+}
+/*section*/
+.section1{
+	margin-top: 100px;
+}
+.h3-name{
+	margin-left: 190px;
+	font-size: 30px;
+}
+.trending-div{
+	margin-top: 50px;
+	width: 400px;
+	height: 320px;
+	margin-left: 190px;
+	position: relative;
+	background-color: #f8fdfc;
+	display: inline-block;
+}
+.picture1{
+	width: 400px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 13;
+}
+.timer{
+	height: 10px;
+	position: absolute;
+	left: 133px;
+	bottom: 30px;
+	z-index: 14;
+}
+.main-div{
+	margin: 0 AUTO;
+
+
+
+}
+.h5p{
+	position: absolute;
+	left: 133px;
+	top: 20px;
+	font-size: 20px;
+	font-family: Garamond;
+	color: white;
+	z-index: 14;
+}
+.min-span{
+	position: absolute;
+	left: 160px;
+	bottom: 30px;
+	font-size: 10px;
+	font-family: Courier New;
+	z-index: 14;
+}
+.text1{
+	position: absolute;
+	z-index: 15;
+	width: 250px;
+	bottom: 50px;
+	left: 133px;
+	font-size: 10px;
+	font-family: Courier New;
+	z-index: 14;
+}
+.trending-div1{
+	margin-top: 50px;
+	width: 400px;
+	height: 320px;
+	margin-left: 30px;
+	position: relative;
+	background-color: #f8fdfc;
+	display: inline-block;
+}
+.picture2{
+	width: 400px;
+	height: 162px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 13;
+}
+.timer1{
+	height: 10px;
+	position: absolute;
+	left: 133px;
+	bottom: 30px;
+	z-index: 14;
+}
+.min-span1{
+	position: absolute;
+	left: 160px;
+	bottom: 30px;
+	font-size: 10px;
+	font-family: Courier New;
+	z-index: 14;
+}
+.h5p1{
+	position: absolute;
+	left: 133px;
+	top: 20px;
+	font-size: 20px;
+	font-family: Garamond;
+	color: white;
+	z-index: 14;
+}
+.text2{
+	position: absolute;
+	z-index: 15;
+	width: 250px;
+	bottom: 50px;
+	left: 133px;
+	font-size: 10px;
+	font-family: Courier New;
+	z-index: 14;
+}
+.trending-div2{
+	margin-top: 50px;
+	width: 400px;
+	height: 320px;
+	margin-left: 30px;
+	position: relative;
+	background-color: #f8fdfc;
+	display: inline-block;
+}
+.picture3{
+	width: 400px;
+	height: 162px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 13;
+}
+.timer2{
+	height: 10px;
+	position: absolute;
+	left: 133px;
+	bottom: 30px;
+	z-index: 14;
+}
+.min-span2{
+	position: absolute;
+	left: 160px;
+	bottom: 30px;
+	font-size: 10px;
+	font-family: Courier New;
+	z-index: 14;
+}
+.h5p2{
+	position: absolute;
+	left: 133px;
+	top: 20px;
+	font-size: 20px;
+	font-family: Garamond;
+	color: white;
+	z-index: 14;
+}
+.text3{
+	position: absolute;
+	z-index: 15;
+	width: 250px;
+	bottom: 50px;
+	left: 133px;
+	font-size: 10px;
+	font-family: Courier New;
+	z-index: 14;
+}
