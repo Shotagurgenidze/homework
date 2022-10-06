@@ -1,5 +1,6 @@
 .body{
-	background-color: #f5f8f8;
+	background-color: #f5f8f8;%
+
 }
 /*headre*/
 .nav-li{
@@ -29,6 +30,7 @@
 /*section*/
 .section1{
 	margin-top: 100px;
+
 }
 .h3-name{
 	margin-left: 190px;
@@ -244,6 +246,8 @@
 	margin-top: 30px;
 
 }
+/*footer*/
+
 .footer{
 	background-color: #A9A2A1;
 	width: 100%;
@@ -251,4 +255,33 @@
 	margin-top: 50px;
 
 
+}
+.logo-div{
+	display: inline-block;
+	margin-left: 190px;
+	margin-top: 30px;
+	vertical-align: top;
+
+}
+.stack1{
+	display: inline-block;
+	width: 100px;
+	margin-top: 30px;
+	
+}
+.stack2{
+	display: inline-block;
+	margin-top: 30px;
+	width: 100px;
+}
+.stack3{
+	display: inline-block;
+	margin-top: 30px;
+	width: 100px;
+}
+.div{
+	margin-right: 100px;
+}
+.li{
+	margin-bottom: 5px;
 }
